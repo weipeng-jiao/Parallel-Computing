@@ -15,3 +15,4 @@
   * 消息传递编程接口 MPI
   * 共享存储并行编程 openMP
   * GPU并行加速技术 CUDA 
+  * 异构并行计算 opencl
